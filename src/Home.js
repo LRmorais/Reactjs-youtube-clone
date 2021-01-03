@@ -15,6 +15,9 @@ const useStyles = makeStyles((theme) => ({
   appBar:{
     boxShadow:'none'
   },
+  logo:{
+    height: 30
+  },
   menuIcon:{
     paddingRight: theme.spacing(2),
     paddingLeft: theme.spacing(2)
@@ -33,19 +36,32 @@ function Home() {
   return (
     <div className={classes.root}>
       {/* color= 'inherit' deixa o background branco */}
-      <AppBar color='inherit' className={classes.appBar}>
+      <AppBar 
+      color='inherit' 
+      className={classes.appBar}
+      >
         <Toolbar>
-          <IconButton edge="start" className={classes.menuIcon} color="inherit" aria-label="menu">
+          <IconButton 
+          className={classes.menuIcon} 
+          color="inherit"
+          >
             <MenuIcon />
           </IconButton>
+          {/* adicionando imagem da logo youtube */}
+          <img src="/assets/logoDark.png" alt="logo" className={classes.logo} />
+
           {/* div criada somente para criar um espaçamento entre a logo e os icones */}
           <div className={classes.grow}/>
 
           <IconButton  className={classes.icons} color="inherit" >
             <VideoCallIcon />
-          </IconButton><IconButton  className={classes.icons} color="inherit" >
+          </IconButton>
+
+          <IconButton  className={classes.icons} color="inherit" >
             <AppsIcon/>
-          </IconButton><IconButton  className={classes.icons} color="inherit" >
+          </IconButton>
+
+          <IconButton  className={classes.icons} color="inherit" >
             <MoreVertIcon/>
           </IconButton>
 
