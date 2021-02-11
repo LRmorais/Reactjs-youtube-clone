@@ -10,15 +10,7 @@
 ##  Descrição do projeto 💻
 <p align="justify"> Recriar a interface da home do Youtube utilizando React JS e Material Ui com objetivo de praticar organização de layouts </p>
 
-> Status do Projeto: Em desenvolvimento 🖥📈
-<!--
-### Funcionalidades :rocket:
-
-- [X] Cadastro de usuários :man:
-- [X] Login de usuário ✅
-- [X] Senha do usuário criptografada 🔒🔑
-- [X] Listagem de usuários :family:
- -->
+> Status do Projeto: Concluído ✅
 
 ### Tecnologias
 - [ReactJS](https://pt-br.reactjs.org/) :heavy_check_mark:
