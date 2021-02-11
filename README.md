@@ -16,20 +16,20 @@
 - [ReactJS](https://pt-br.reactjs.org/) :heavy_check_mark:
 - [Material-Ui](https://material-ui.com/) :heavy_check_mark:
 
-<!--
+
 ### Como rodar a aplicação :arrow_forward:
 ```
 # No terminal, clone o projeto
-$ git clone https://github.com/LRmorais/Mongoose-rest-mongodb-jwt.git
+$ git clone https://github.com/LRmorais/Reactjs-youtube-clone.git
 
 # Entre na pasta do projeto
-$ cd Mongoose-rest-mongodb-jwt
+$ cd Reactjs-youtube-clone
 
 # Instale as dependências
 $ npm install ou yarn install
 
 # Execute a aplicação
-$ npm index.js ou yarn index.js
+$ npm start
 ```
 ##  Como contribuir :octocat:
 1. Fork este repositório;
@@ -39,9 +39,9 @@ $ npm index.js ou yarn index.js
 
 Após o merge de sua solicitação pull request, você pode excluir seu branch.
 
-Relate algum bug [here](https://github.com/LRmorais/Mongoose-rest-mongodb-jwt/issues).
+Relate algum bug [here](https://github.com/LRmorais/Reactjs-youtube-clone/issuess).
 
 ## 📝 License
 
-This project is under the MIT license. See the archive [LICENSE](https://github.com/LRmorais/Mongoose-rest-mongodb-jwt/blob/main/LICENSE) for more details.
- -->
+This project is under the MIT license. See the archive [LICENSE](https://github.com/LRmorais/Reactjs-youtube-clone/blob/main/LICENSE) for more details.
+
