@@ -13,9 +13,10 @@
 > Status do Projeto: Concluído ✅
 
 ## PrintScreens do projeto
-![Dark Theme](https://github.com/LRmorais/Reactjs-youtube-clone/blob/main/public/prtScProject/youtubeDark.JPG?raw=true)
+<div style="">
+![Dark Theme](https://github.com/LRmorais/Reactjs-youtube-clone/blob/main/public/prtScProject/youtubeDark.JPG?raw=true&=100x20)
 ![Light Theme](https://github.com/LRmorais/Reactjs-youtube-clone/blob/main/public/prtScProject/YoutubeLight.JPG?raw=true)
-
+</div>
 
 ### Tecnologias
 - [ReactJS](https://pt-br.reactjs.org/) :heavy_check_mark:
