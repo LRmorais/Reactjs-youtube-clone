@@ -14,7 +14,7 @@
 
 ## PrintScreens do projeto
 ![Dark Theme](https://github.com/LRmorais/Reactjs-youtube-clone/blob/main/public/prtScProject/youtubeDark.JPG?raw=true)
-![Light Theme](hhttps://github.com/LRmorais/Reactjs-youtube-clone/blob/main/public/prtScProject/YoutubeLight.JPG?raw=true)
+![Light Theme](https://github.com/LRmorais/Reactjs-youtube-clone/blob/main/public/prtScProject/YoutubeLight.JPG?raw=true)
 
 ### Tecnologias
 - [ReactJS](https://pt-br.reactjs.org/) :heavy_check_mark:
