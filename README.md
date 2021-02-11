@@ -12,6 +12,10 @@
 
 > Status do Projeto: Concluído ✅
 
+## PrintScreens do projeto
+![alt text](https://github.com/LRmorais/Reactjs-youtube-clone/blob/main/public/images/branco.png?raw=true)
+
+
 ### Tecnologias
 - [ReactJS](https://pt-br.reactjs.org/) :heavy_check_mark:
 - [Material-Ui](https://material-ui.com/) :heavy_check_mark:
